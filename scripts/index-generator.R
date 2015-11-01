@@ -1,5 +1,5 @@
 
-setwd("/Users/Gaston/Documents/Rtist/")
+setwd("~/Documents/artista/")
 
 images = system("ls images/rtist/", intern = TRUE)
 
@@ -7,7 +7,7 @@ img_names = strsplit(images, split=".", fixed=TRUE)
 img_names = unlist(lapply(img_names, function(x) x[1]))
 
 # file name
-index = "/Users/Gaston/Documents/Rtist/index.html"
+index = "~/Documents/artista/index.html"
 
 
 # start writing output to 'index' file
