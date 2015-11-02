@@ -1,18 +1,18 @@
 # Title: .md files generator
 # Generates .md files for website 
 
-setwd("/Users/Gaston/Documents/Rtist/")
+setwd("~/Documents/artista/")
 
 # get file names
 Rfiles <- system("ls R", intern = TRUE)
-images <- system("ls images/rtist/", intern = TRUE)
+images <- system("ls images/artista/", intern = TRUE)
 
 # extract image names
 img_names <- strsplit(images, split=".", fixed=TRUE)
 img_names <- unlist(lapply(img_names, function(x) x[1]))
 
 # output files
-outfiles <- paste(img_names, ".md", sep = '')
+outfiles <- paste('pages/', img_names, ".md", sep = '')
 
 
 # Image titles
@@ -34,11 +34,11 @@ for (i in 1:num_files) {
   cat(file = outfiles[i], "---", "\n\n", sep = '', append = TRUE)
   
   # add page title and image
-  cat(file = outfiles[i], "# [R-tist](/Rtist)", "\n\n", append = TRUE)
+  cat(file = outfiles[i], "# [R-tist](/artista)", "\n\n", append = TRUE)
   cat(file = outfiles[i], sprintf("### %s", img_titles[i]), 
       "\n\n", append = TRUE)
   cat(file = outfiles[i], 
-      sprintf("![%s](/images/rtist/%s)", 
+      sprintf("![%s](/images/artista/%s)", 
               img_titles[i], images[i]), 
       "\n\n", append = TRUE)
 

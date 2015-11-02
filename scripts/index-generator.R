@@ -1,7 +1,7 @@
 
 setwd("~/Documents/artista/")
 
-images = system("ls images/rtist/", intern = TRUE)
+images = system("ls images/artista/", intern = TRUE)
 
 img_names = strsplit(images, split=".", fixed=TRUE)
 img_names = unlist(lapply(img_names, function(x) x[1]))
@@ -30,8 +30,8 @@ cat(file = index, "</div>", "\n\n", append = TRUE)
 cat(file = index, "<div id=\"gallery\">", "\n", append = TRUE)
 
 
-href <- "  <a href=\""
-img <- "  <img class=\"mosaic\" src=\"/images/rtist/"
+href <- "  <a href=\"pages/"
+img <- "  <img class=\"mosaic\" src=\"/images/artista/"
 
 for (i in 1L:length(img_names)) 
 {
