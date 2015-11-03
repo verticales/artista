@@ -7,7 +7,7 @@ title: "blue bubbles"
 
 ### blue bubbles 
 
-![blue bubbles](../../images/artista/blue_bubbles.png) 
+![blue bubbles](../images/artista/blue_bubbles.png) 
 
 -----
 

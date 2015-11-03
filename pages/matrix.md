@@ -7,7 +7,7 @@ title: "matrix"
 
 ### matrix 
 
-![matrix](../../images/artista/matrix.png) 
+![matrix](../images/artista/matrix.png) 
 
 -----
 

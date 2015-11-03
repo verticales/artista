@@ -7,7 +7,7 @@ title: "double heart"
 
 ### double heart 
 
-![double heart](../../images/artista/double_heart.png) 
+![double heart](../images/artista/double_heart.png) 
 
 -----
 
