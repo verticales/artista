@@ -7,7 +7,7 @@ title: "blue feathers"
 
 ### blue feathers 
 
-![blue feathers](/images/artista/blue_feathers.png) 
+![blue feathers](images/artista/blue_feathers.png) 
 
 -----
 

@@ -7,7 +7,7 @@ title: "blue rings"
 
 ### blue rings 
 
-![blue rings](/images/artista/blue_rings.png) 
+![blue rings](images/artista/blue_rings.png) 
 
 -----
 

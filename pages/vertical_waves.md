@@ -7,7 +7,7 @@ title: "vertical waves"
 
 ### vertical waves 
 
-![vertical waves](/images/artista/vertical_waves.png) 
+![vertical waves](images/artista/vertical_waves.png) 
 
 -----
 

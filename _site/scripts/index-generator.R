@@ -31,7 +31,7 @@ cat(file = index, "<div id=\"gallery\">", "\n", append = TRUE)
 
 
 href <- "  <a href=\"pages/"
-img <- "  <img class=\"mosaic\" src=\"/images/artista/"
+img <- "  <img class=\"mosaic\" src=\"images/artista/"
 
 for (i in 1L:length(img_names)) 
 {

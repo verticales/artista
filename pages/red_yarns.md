@@ -7,7 +7,7 @@ title: "red yarns"
 
 ### red yarns 
 
-![red yarns](/images/artista/red_yarns.png) 
+![red yarns](images/artista/red_yarns.png) 
 
 -----
 
