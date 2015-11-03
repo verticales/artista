@@ -7,7 +7,7 @@ title: "saturn rings"
 
 ### saturn rings 
 
-![saturn rings](../images/artista/saturn_rings.png) 
+![saturn rings](../../images/artista/saturn_rings.png) 
 
 -----
 

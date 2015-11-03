@@ -7,7 +7,7 @@ title: "pink bubbles"
 
 ### pink bubbles 
 
-![pink bubbles](../images/artista/pink_bubbles.png) 
+![pink bubbles](../../images/artista/pink_bubbles.png) 
 
 -----
 

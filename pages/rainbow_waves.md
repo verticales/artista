@@ -7,7 +7,7 @@ title: "rainbow waves"
 
 ### rainbow waves 
 
-![rainbow waves](../images/artista/rainbow_waves.png) 
+![rainbow waves](../../images/artista/rainbow_waves.png) 
 
 -----
 
