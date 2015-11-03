@@ -7,7 +7,7 @@ title: "concentric circles"
 
 ### concentric circles 
 
-![concentric circles](images/artista/concentric_circles.png) 
+![concentric circles](../images/artista/concentric_circles.png) 
 
 -----
 

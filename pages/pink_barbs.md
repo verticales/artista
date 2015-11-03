@@ -7,7 +7,7 @@ title: "pink barbs"
 
 ### pink barbs 
 
-![pink barbs](images/artista/pink_barbs.png) 
+![pink barbs](../images/artista/pink_barbs.png) 
 
 -----
 
